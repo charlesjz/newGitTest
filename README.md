@@ -1,8 +1,8 @@
 # newGitTest
 test
-##Function
-###1.a
-###2.b
+## Function
+### 1.a
+### 2.b
 
 
 主要内容
