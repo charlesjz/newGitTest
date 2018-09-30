@@ -3,7 +3,9 @@ test
 ## Function
 ### 1.a
 ### 2.b
-
+- Red 红色
+- Blue 蓝色
+- Yellow 黄色
 
 主要内容
 
